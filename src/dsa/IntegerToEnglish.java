@@ -1,4 +1,4 @@
-package general;
+package dsa;
 
 /**
  * https://leetcode.com/problems/integer-to-english-words/

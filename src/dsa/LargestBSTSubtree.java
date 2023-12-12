@@ -1,4 +1,4 @@
-package general;
+package dsa;
 
 public class LargestBSTSubtree {
 
