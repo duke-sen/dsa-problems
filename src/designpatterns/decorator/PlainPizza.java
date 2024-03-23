@@ -1,0 +1,13 @@
+package designpatterns.decorator;
+
+public class PlainPizza implements Pizza{
+    @Override
+    public String getDescription() {
+        return "Thin Dough";
+    }
+
+    @Override
+    public double getCost() {
+        return 5.00;
+    }
+}
